@@ -17,7 +17,7 @@ This README shows how to get the project running locally on Windows (PowerShell)
 
 ## Install dependencies
 
-Open PowerShell in the repository root (`c:\Users\DCL\Desktop\tech-blog`) and run:
+Open PowerShell in the repository and run:
 
 ```powershell
 npm install
@@ -88,5 +88,3 @@ This project uses Tailwind CSS. The Tailwind configuration is in `tailwind.confi
 This repository has no license file. Add a LICENSE if you plan to reuse or publish this project.
 
 ---
-
-If you want, I can also add a CONTRIBUTING guide, expand the component docs, or wire a simple JSON-file-backed posts store so you can create and view posts locally. Which would you like next?
